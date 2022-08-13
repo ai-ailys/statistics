@@ -1,0 +1,15 @@
+application:
+  currency_pairs:
+    - EUR/USD
+    - USD/RUB
+  timeframe:
+    - 1
+    - 5
+    - 15
+    - 30
+    - 60
+
+
+server:
+  port: 8082
+
