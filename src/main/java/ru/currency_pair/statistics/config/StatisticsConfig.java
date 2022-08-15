@@ -14,7 +14,6 @@ import java.util.List;
 public class StatisticsConfig {
 
     List<String> currencyPairs;
-
     List<Integer> timeframe;
 
 }
